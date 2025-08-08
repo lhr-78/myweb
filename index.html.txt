@@ -1,0 +1,8 @@
+<html>
+ <body>
+  <p>lhr</p>
+  <div style="padding:80px；background-color:#f1f1f1">
+   <img str='https://ftp.mioz.cn/text/2025/08/08/1754638493.JPG' alt="lhr" width="800px" height="800px">
+  </div>
+ </body>
+</html>
